@@ -1,0 +1,18 @@
+
+Segunda Clase:
+
+    -   Encapsulamiento (siempre pedir permiso a los objetos para usar algo que sea de ellos).
+    -   Colaborador interno (Utilizo un objeto que es mio): algo que sea necesario para la vida de ese objeto (Del objeto auto, el colaborador motor).
+    -   Colaborador externo (Utilizo un objeto que es de otro).
+    -   Los mensajes van a contener colaboradores.
+    -   Trabajar con ideas y conceptos, abstraccion y generalizacion dentro de la programacion.
+    -   La idea / concepto se va a llamar "Clase", y el objetivo de cada clase es materializar objetos.
+    -   La "Clase" va a ser la representacion de una idea o concepto.
+    -   Las "Clases" tienen el objetivo de materializar esa idea o concepto, que se llamaran "Objetos".
+    -   Propiedades: Completitud (hace lo que tiene que hacer?), Correctitud (lo hace correctamente).
+    -   Una clase esta completa cuando ya no se le puede sacar mas nada.
+    -   Ejercicio "Cuenta Bancaria":
+                                    -   Extraccion.
+                                    -   Deposito.
+                                    -   Transferencia.
+    -   Leer Ward Cunningham (c2.com).
