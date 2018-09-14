@@ -1,4 +1,4 @@
-package Prog2;
+package Prog2.Teorica;
 
 /**
  * Clase : Representacion de una idea y su rol principal es crear un objetos(instancia).
