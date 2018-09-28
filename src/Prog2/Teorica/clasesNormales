@@ -2,7 +2,8 @@
 Segunda Clase:
 
     -   Encapsulamiento (siempre pedir permiso a los objetos para usar algo que sea de ellos).
-    -   Colaborador interno (Utilizo un objeto que es mio): algo que sea necesario para la vida de ese objeto (Del objeto auto, el colaborador motor).
+    -   Colaborador interno (Utilizo un objeto que es mio): algo que sea necesario para la vida de ese objeto
+      (Del objeto auto, el colaborador motor).
     -   Colaborador externo (Utilizo un objeto que es de otro).
     -   Los mensajes van a contener colaboradores.
     -   Trabajar con ideas y conceptos, abstraccion y generalizacion dentro de la programacion.
@@ -16,3 +17,17 @@ Segunda Clase:
                                     -   Deposito.
                                     -   Transferencia.
     -   Leer Ward Cunningham (c2.com).
+
+
+    Clase 28/09:
+
+    -   Collection:
+            ArrayList < T >.
+            HashMap < K, V >. (Diccionario: clave y valor, es un buscador mas rapido)
+            HashSet < T >.
+            TreeMap < K, V >.
+
+    -   Generics (es la T de arriba):
+            Al usar Generic en lugar de object al monento de instanciar listas y otras cosas, no necesitas castear
+         constantemente cada vez que queres hacer algo al conjunto o lista de tus objetos, podes instanciar Integer
+         y el generic te lo castea en cada uso para facilitar su uso.

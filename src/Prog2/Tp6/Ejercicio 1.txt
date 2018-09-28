@@ -1,0 +1,29 @@
+Checked son aquellas que  se deben declarar en el método mediante la palabra throws y obligan al método que lo llama a realizar el
+manejo de dicha excepción, mientras que las excepciones Unchecked son aquellas que no son necesarias declararlas en el método y no
+obliga al método que lo llama a hacer un tratamiento de dicha excepción.
+
+Las excepciones Checked tienen menos probabilidades de ocurrir, son condiciones excepcionales en el  flujo de nuestro
+programa pero que no son debido a un error del propio programa, generalmente son por problemas de red, problemas con la
+conexión a la bases de datos. Podemos tener una excepción checked en el programa pero esto no significa que nuestro programa
+fallo y puede seguir funcionando correctamente, simplemente se ha producido una situación excepcional que hemos marcado como
+una excepción.
+
+Ahora las excepciones Unchecked sin son aquellas que lanzamos cuando hay un error en el programa y  poco podemos hacer por
+arreglarlas. Es por esto que no es obligatorio tratarlas con las cláusulas try-catch., lo único  que podemos hacer es que
+nuestro programa termine fallando y que muestre un mensaje de error al usuario.
+
+Todas las excepciones que el compilador sepa que son Checked obliga a que se utilice las cláusulas try y catch u obliga a
+lanzar las excepciones. Las Unchecked el compilador no exige que tengan que colocar las cláusulas Try y catch.
+
+1) 1-
+
+    a.- Unchecked.
+    b.- Checked.
+    c.- Checked.
+    d.- Checked.
+    e.- Unchecked.
+    f.- Unchecked.
+
+
+   2-
+
