@@ -1,6 +1,7 @@
 package Prog2.Trabajo.ejercicio2;
 
 import Utilidad.Scanner;
+import javafx.collections.transformation.SortedList;
 
 import java.util.ArrayList;
 import java.util.List;
