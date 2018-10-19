@@ -1,4 +1,4 @@
-package Pracitica;
+package Prog2.Practica;
 
 import java.util.Comparator;
 

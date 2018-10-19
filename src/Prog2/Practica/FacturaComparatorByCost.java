@@ -1,11 +1,11 @@
-package Pracitica;
+package Prog2.Practica;
 
 import java.util.Comparator;
 
 /**
  * Created by a on 29/11/2017.
  */
-public class FacturaComparatorByCost implements Comparator<Factura> {
+public class FacturaComparatorByCost implements Comparator< Factura > {
 
     @Override
     public int compare(Factura o1, Factura o2) {

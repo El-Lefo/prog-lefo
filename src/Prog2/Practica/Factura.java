@@ -1,4 +1,4 @@
-package Pracitica;
+package Prog2.Practica;
 
 /**
  * Created by a on 29/11/2017.
